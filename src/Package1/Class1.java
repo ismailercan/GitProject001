@@ -6,6 +6,7 @@ public class Class1 {
 		
 		//Hello everyone
 		//Welcome to Git Class
+		//Thnak you for joining
 
 	}
 
