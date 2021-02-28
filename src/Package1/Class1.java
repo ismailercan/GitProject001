@@ -10,6 +10,7 @@ public class Class1 {
 		//You are welcome
 		//Here is an issue on local main branch
 		//Here is remote change
+		//Here is a new remote change
 
 
 	}
